@@ -1,0 +1,36 @@
+.click_left,
+.click_right {
+    position: absolute;
+    font-size: 50px;
+    color: #ccc;
+    cursor: pointer;
+}
+
+.click_left:hover,
+.click_right:hover {
+    color: rgb(129, 126, 126);
+}
+
+.click_left {
+    top: 50%;
+    transform: translateY(-50%);
+    left: 2%;
+}
+
+.click_right {
+    top: 50%;
+    right: 2%;
+    transform: translateY(-50%);
+}
+@media only screen and (max-width:768px) {
+    .click_left, .click_right{
+        font-size: 30px !important;
+    }
+   
+}
+@media only screen and (max-width:400px) {
+    .click_left, .click_right{
+        font-size: 20px !important;
+    }
+    
+}

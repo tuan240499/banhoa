@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "user_name": "tranhuynam",
+      "password": "123456789",
+      "email": "tranhuynam@gmail.com",
+      "created_date": "11/11/2022",
+      "modified_date": "12/11/2022",
+      "modified_by": "user",
+      "created_by": "user",
+      "address": "ba dinh, kim ma, ha noi",
+      "id": 1
+    },
+    {
+      "user_name": "tranhuyhong",
+      "password": "123456789",
+      "email": "tranhuyhong@gmail.com",
+      "created_date": "11/11/2022",
+      "modified_date": "12/11/2022",
+      "modified_by": "user",
+      "created_by": "user",
+      "address": "ba dinh, kim ma, ha noi",
+      "id": 2
+    },
+    {
+      "user_name": "tranhuyphong",
+      "password": "123456789",
+      "email": "tranhuyphong@gmail.com",
+      "created_date": "11/11/2022",
+      "modified_date": "12/11/2022",
+      "modified_by": "user",
+      "created_by": "user",
+      "address": "ba dinh, kim ma, ha noi",
+      "id": 3
+    },
+    {
+      "user_name": "trantung",
+      "password": "12345678",
+      "email": "trantung@gmail.com",
+      "created_date": "11/11/2022",
+      "modified_date": "12/11/2022",
+      "modified_by": "user",
+      "created_by": "user",
+      "address": "ba dinh, kim ma, ha noi",
+      "id": 4
+    },
+    {
+      "user_name": "tranduc",
+      "password": "12345678",
+      "email": "tranduc@gmail.com",
+      "created_date": "11/11/2022",
+      "modified_date": "12/11/2022",
+      "modified_by": "user",
+      "created_by": "user",
+      "address": "ba dinh, kim ma, ha noi",
+      "id": 5
+    },
+    {
+      "user_name": "trancuong",
+      "password": "12345678",
+      "email": "trancuong@gmail.com",
+      "created_date": "11/11/2022",
+      "modified_date": "12/11/2022",
+      "modified_by": "user",
+      "created_by": "user",
+      "address": "ba dinh, kim ma, ha noi",
+      "id": 6
+    },
+    {
+      "user_name": "tranmanh",
+      "password": "12345678",
+      "email": "trancmanh@gmail.com",
+      "created_date": "11/11/2022",
+      "modified_date": "12/11/2022",
+      "modified_by": "user",
+      "created_by": "user",
+      "address": "ba dinh, kim ma, ha noi",
+      "id": 7
+    },
+    {
+      "user_name": "tranphuc",
+      "password": "12345678",
+      "email": "trancphuc@gmail.com",
+      "created_date": "11/11/2022",
+      "modified_date": "12/11/2022",
+      "modified_by": "user",
+      "created_by": "user",
+      "address": "ba dinh, kim ma, ha noi",
+      "id": 8
+    },
+    {
+      "user_name": "tranhuyminh",
+      "password": "12345678",
+      "email": "tranchuyminh@gmail.com",
+      "created_date": "11/11/2022",
+      "modified_date": "12/11/2022",
+      "modified_by": "user",
+      "created_by": "user",
+      "address": "ba dinh, kim ma, ha noi",
+      "id": 9
+    },
+    {
+      "user_name": "tranhuytuan",
+      "password": "12345678",
+      "email": "tranchuytuan@gmail.com",
+      "created_date": "11/11/2022",
+      "modified_date": "12/11/2022",
+      "modified_by": "user",
+      "created_by": "user",
+      "address": "ba dinh, kim ma, ha noi",
+      "id": 10
+    },
+    {
+      "user_name": "tranhuytunam111",
+      "password": "123456789",
+      "email": "tranhuynam@gmail.com",
+      "created_date": "10/12/2022",
+      "created_by": "user",
+      "modified_date": "",
+      "modified_by": "",
+      "id": 11
+    },
+    {
+      "user_name": "tuankiennam",
+      "password": "123123123",
+      "email": "ycom46350@gmail.com",
+      "created_date": "19/12/2022",
+      "created_by": "user",
+      "modified_date": "",
+      "modified_by": "",
+      "id": 12
+    }
+  ]
+}

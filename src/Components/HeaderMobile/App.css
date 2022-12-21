@@ -1,0 +1,35 @@
+.header_mobile {
+    justify-content: space-around;
+    width: 90%;
+    margin: 20px auto 0;
+    align-items: center;
+}
+
+.list_button_ul {
+    background-color: pink;
+    padding: 0;
+    list-style-type: none;
+    text-align: left;
+    position: absolute;
+    width: 200%;
+}
+
+.list_button_ul li {
+    padding: 5px;
+}
+
+.list_button_ul li:hover {
+    background-color: rgb(247, 245, 245);
+    cursor: pointer;
+}
+
+.btn_menu_page_mobile,
+.btn_account {
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    background-color: white;
+    font-weight: 600;
+    font-size: 18px;
+    color: rgb(243, 68, 97);
+}

@@ -1,0 +1,38 @@
+{
+    "images_slide": [
+        "https://dc.flowercorner.vn/uploads/P638db0a8c29be1.74485151_fc%20-%20xmas%20-%201355x432.jpg",
+        "https://dc.flowercorner.vn/uploads/P638db9172e5008.24461538_web%203.png",
+        "https://dc.flowercorner.vn/uploads/P638db910269610.01594562_web%201.png",
+        "https://dc.flowercorner.vn/uploads/P638db91e06d9c6.89271083_web%202.png",
+        "https://dc.flowercorner.vn/uploads/P63960bd1e1ad96.80248953_Promotion_12_PC.png"
+    ],
+    "logo_shop":"https://www.flowercorner.vn/image/catalog/1_dienhoa/app/shop-hoa-tuoi-flowercorner-logo.png",
+    
+    "button_page":[
+        {
+            "url":"hoacuoi",
+            "item":"Hoa Cưới"
+        },
+        {
+            "url":"binhhoa",
+            "item":"Bình Hoa"
+        },
+        {
+            "url":"hoatinhyeu",
+            "item":"Hoa Tình Yêu"
+        },
+        {
+            "url":"bohoa",
+            "item":"Bó Hoa"
+        },
+        {
+            "url":"giohoa",
+            "item":"Giỏ Hoa"
+        },
+        {
+            "url":"hoakhaitruong",
+            "item":"Hoa Khai Trương"
+        }
+
+    ]
+}
